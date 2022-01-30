@@ -1,0 +1,2 @@
+rootProject.name = "FabCoder"
+include ':app'
